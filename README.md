@@ -1,0 +1,1 @@
+# Bsc-cs-praticals
