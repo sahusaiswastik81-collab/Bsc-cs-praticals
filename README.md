@@ -1,4 +1,4 @@
-# Bsc-cs-praticals
+# web-devlopment
 
 
 
